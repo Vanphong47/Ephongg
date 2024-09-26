@@ -21,7 +21,7 @@ import RootLayout from "./layout/RootLayout";
 import Group from "./pages/Group/Group";
 import PageHome from "./pages/EPhong/PageHome";
 // import SimpleSlider from "./pages/EPhong/components/SlickSider";
-import SimSlider from "./pages/EPhong/components/Slick";
+// import SimSlider from "./pages/EPhong/components/Slick";
 import TinyMCE from "./pages/EPhong/components/tinyMce";
 
 const AppSnackbar = () => {
